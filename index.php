@@ -1,4 +1,11 @@
+
 <?php
+// Versiohallinta: Tämä tiedosto on osa tehtävä12-projektia (nirhi666/GitHub) <?php
+// Tämä koodi toimii – älä koske ilman kahvia ☕
+// © Marko Korpikoski 2025 – tehtävä12 / GitHub: nirhi666
+
+// ...loput koodista...
+
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 ?>
